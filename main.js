@@ -87,6 +87,25 @@ const products = [
     flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=LLSHPATVY8BSNZF6',
     featured: true
 },
+    {
+    id: '6',
+    name: 'Ecoosoft 240 LEDs 3M Yellow Leaf Curtain Rice Lights (Pack of 1)',
+    price: 257,
+    description: 'Brand: Ecoosoft | Model: 240 LED Leaf Curtain Light | Type: Decorative Rice Light | Color: Yellow | Length: 3 Meter | Number of LEDs: 240 | Lighting Modes: Flickering & Steady | Bulb Type: LED | Shape: Leaf | Control Method: Manual | Pack of: 1 | Ideal for Home Decoration, Bedroom, Balcony, Curtains, Festivals, Diwali, Weddings, Parties, and Indoor Decor | Fragile: No.',
+    image: 'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/g/7/3/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9fz7njst82.jpeg?q=90',
+    images: [
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/g/7/3/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9fz7njst82.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/p/q/s/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9gkryjsw5f.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/d/t/h/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9fczjk2hpz.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/w/m/5/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9f7ahjumd6.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/g/d/b/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9gbgs2rfpv.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/2/z/9/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9gedz99snz.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/m/x/v/240-leaf-1-1-240-led-leaf-curtain-light-ecoosoft-original-imahzn9gnfdt3z85.jpeg?q=90'
+    ],
+    category: 'Lighting',
+    flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=RCLHZN9ZR6AHY3RN',
+    featured: true
+}
     
     
 ];
