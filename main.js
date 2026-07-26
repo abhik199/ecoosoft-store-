@@ -75,18 +75,19 @@ const products = [
     name: 'Ecoosoft 500 LED 5M Smart RGB Neon Rope Light with App & Remote Control',
     price: 777,
     description: 'Brand: Ecoosoft | Model: Smart Neon Rope Light | Type: Smart Tube Light | LED Color: Multicolor | Number of LEDs: 500 | Length: 5 Meter | Control: App & Remote | Lighting Modes: 16 Million Colors | Bulb Type: LED | Flexible Rope Design | Power: 5W | Power Source: USB | Compatible with Laptop, USB Socket & Power Bank | Fragile: Yes | Ideal for Bedroom, Gaming Setup, TV Backlight, Home Decoration, Festivals, Parties, and Ambient Lighting.',
-    image: 'https://www.flipkart.com/full-image-view',
+    image: 'https://rukminim2.flixcart.com/image/2048/2048/xif0q/smart-lighting/j/k/r/5-smart-neon-rope-light-led-ecoosoft-original-imahpatvwwzashk8.jpeg?q=90',
     images: [
-        'https://www.flipkart.com/full-image-view',
-        'https://www.flipkart.com/full-image-view',
-        'https://www.flipkart.com/full-image-view',
-        'https://www.flipkart.com/full-image-view',
-        'https://www.flipkart.com/full-image-view'
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/smart-lighting/j/k/r/5-smart-neon-rope-light-led-ecoosoft-original-imahpatvwwzashk8.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/4096/4096/xif0q/smart-lighting/g/m/l/5-smart-neon-rope-light-led-ecoosoft-original-imahpatvjtaaepqv.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/4096/4096/xif0q/smart-lighting/c/m/r/5-smart-neon-rope-light-led-ecoosoft-original-imahpatvfzvnxs5w.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/4096/4096/xif0q/rice-light/c/i/x/5000-string-5-1-rgb-lights-mobile-and-remote-control-sumraj-original-imahmp3nzkkjbwzh.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/4096/4096/xif0q/smart-lighting/z/d/k/5-smart-neon-rope-light-led-ecoosoft-original-imahpatvgsndym9z.jpeg?q=90'
     ],
     category: 'Lighting',
     flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=LLSHPATVY8BSNZF6',
     featured: true
 },
+    
     
 ];
 
