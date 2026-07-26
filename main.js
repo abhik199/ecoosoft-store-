@@ -69,7 +69,25 @@ const products = [
         category: 'Kitchen',
         flipkartLink: '#',
         featured: true
-    }
+    },
+    {
+    id: '5',
+    name: 'Ecoosoft 500 LED 5M Smart RGB Neon Rope Light with App & Remote Control',
+    price: 777,
+    description: 'Brand: Ecoosoft | Model: Smart Neon Rope Light | Type: Smart Tube Light | LED Color: Multicolor | Number of LEDs: 500 | Length: 5 Meter | Control: App & Remote | Lighting Modes: 16 Million Colors | Bulb Type: LED | Flexible Rope Design | Power: 5W | Power Source: USB | Compatible with Laptop, USB Socket & Power Bank | Fragile: Yes | Ideal for Bedroom, Gaming Setup, TV Backlight, Home Decoration, Festivals, Parties, and Ambient Lighting.',
+    image: 'https://www.flipkart.com/full-image-view',
+    images: [
+        'https://www.flipkart.com/full-image-view',
+        'https://www.flipkart.com/full-image-view',
+        'https://www.flipkart.com/full-image-view',
+        'https://www.flipkart.com/full-image-view',
+        'https://www.flipkart.com/full-image-view'
+    ],
+    category: 'Lighting',
+    flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=LLSHPATVY8BSNZF6',
+    featured: true
+},
+    
 ];
 
 // Cart Logic
