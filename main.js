@@ -144,6 +144,23 @@ const products = [
     flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=RCLHZJ3VEGTHSP9H',
     featured: true
 } , 
+    {
+    id: '9',
+    name: 'Ecoosoft 2 Pin Plug Cable 2.5 Meter Copper Power Cord Extension Wire Water Resistant (Blue)',
+    price: 162,
+    description: 'Brand: Ecoosoft | Model: 2 Pin Plug Cable 2.5 Meter Copper Power Cord Extension Wire Water Resistant | Type: Two Pin Plug | Color: Blue | Cable Length: 2.5 Meter | Material: Rubber | Copper Wire | Water Resistant | Grounded: Yes | Indicator: No | Sleeved Plug Pins: Yes | Pack of: 1 | Sales Package: 1 x 2 Pin 2 Wire Power Cable | Ideal for LED Rope Lights, Decorative Lights, Home Appliances, Extension Use, Indoor & Outdoor Applications.',
+    image: 'https://rukminim2.flixcart.com/image/2048/2048/xif0q/electrical-plug/v/e/g/2-pin-plug-cable-2-5-meter-copper-power-cord-extension-wire-original-imahzd9avjxzgycu.jpeg?q=90',
+    images: [
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/electrical-plug/v/e/g/2-pin-plug-cable-2-5-meter-copper-power-cord-extension-wire-original-imahzd9avjxzgycu.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/electrical-plug/a/v/r/2-pin-plug-cable-2-5-meter-copper-power-cord-extension-wire-original-imahzd9asthd9j5r.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/electrical-plug/x/h/s/2-pin-plug-cable-2-5-meter-copper-power-cord-extension-wire-original-imahzd9ahzsqfshz.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/electrical-plug/g/l/k/2-pin-plug-cable-2-5-meter-copper-power-cord-extension-wire-original-imahzd9ae42erqjr.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/electrical-plug/l/b/e/2-pin-plug-cable-2-5-meter-copper-power-cord-extension-wire-original-imahzd9a9mxv4arg.jpeg?q=90'
+    ],
+    category: 'Electrical',
+    flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=PLGHZD9ADGMMUPM8',
+    featured: true
+} 
     
     
 ];
