@@ -124,7 +124,26 @@ const products = [
     category: 'Lighting',
     flipkartLink: 'https://www.flipkart.com/ecoosoft-600-leds-5-m-yellow-steady-strip-rice-lights/p/itme55dec2b83e8d?pid=RCLHZKAGAQHVFETF&marketplace=FLIPKART&lid=LSTRCLHZKAGAQHVFETFR6SUZM&pageUID=1785062225498',
     featured: true
-}
+},
+    {
+    id: '8',
+    name: 'Ecoosoft 60 LEDs 20M Yellow String Rice Lights (Pack of 1)',
+    price: 175,
+    description: 'Brand: Ecoosoft | Model: 60 LED Power Pixel Serial String Light | Type: Decorative String Rice Light | Color: Yellow | Length: 20 Meter | Number of LEDs: 60 | Lighting Mode: Steady | Bulb Type: LED | Shape: String | Pack of: 1 | Energy Efficient LED Lighting | Ideal for Home Decoration, Balcony, Garden, Festivals, Diwali, Weddings, Parties, Indoor & Outdoor Decoration | Fragile: No.',
+    image: 'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/o/d/1/60-string-20-1-60-led-power-pixel-serial-string-light-in-bulb-original-imahpatkraadnuzy.jpeg?q=90',
+    images: [
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/o/d/1/60-string-20-1-60-led-power-pixel-serial-string-light-in-bulb-original-imahpatkraadnuzy.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/q/k/d/60-string-20-0-2-60-led-power-pixel-serial-string-light-in-bulb-original-imahzj3upshmwh5g.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/5/9/s/60-string-20-0-1-60-led-power-pixel-serial-string-light-in-bulb-original-imahzj3u9ybrpc4m.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/q/z/s/60-string-20-0-2-60-led-power-pixel-serial-string-light-in-bulb-original-imahzj3uaah5hgrf.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/w/i/r/60-string-20-0-2-60-led-power-pixel-serial-string-light-in-bulb-original-imahzj3u9wnytahn.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/n/m/j/60-string-20-0-2-60-led-power-pixel-serial-string-light-in-bulb-original-imahzj3uz3msuq4m.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/j/c/s/60-string-20-0-1-60-led-power-pixel-serial-string-light-in-bulb-original-imahzj3ucfgjxykq.jpeg?q=90'
+    ],
+    category: 'Lighting',
+    flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=RCLHZJ3VEGTHSP9H',
+    featured: true
+} , 
     
     
 ];
