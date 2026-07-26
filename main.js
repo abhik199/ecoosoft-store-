@@ -160,7 +160,25 @@ const products = [
     category: 'Electrical',
     flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=PLGHZD9ADGMMUPM8',
     featured: true
-} 
+} , 
+    {
+    id: '10',
+    name: 'Ecoosoft 40 LEDs 12M Multicolor Diamond Shape String Rice Lights (Pack of 1)',
+    price: 247,
+    description: 'Brand: Ecoosoft | Model: 40 LED Diamond Shape Lights | Type: Decorative String Rice Light | Color: Multicolor | Length: 12 Meter | Number of LEDs: 40 | Lighting Modes: Color Changing, Flickering & Steady | Bulb Type: LED | Shape: String | Control Method: Manual | Pack of: 1 | Energy Efficient LED Lighting | Ideal for Home Decoration, Bedroom, Balcony, Garden, Festivals, Diwali, Christmas, Weddings, Parties, Indoor & Outdoor Decoration | Fragile: No.',
+    image: 'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/b/q/9/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72szg63p8ae.jpeg?q=90',
+    images: [
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/b/q/9/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72szg63p8ae.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/7/q/d/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72sqskf8rhq.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/2/a/o/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72sjkftuxqz.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/j/g/p/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72spdt6cczb.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/e/h/k/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72sfyxhr3uh.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/g/x/j/40-string-12-1-40-led-diamond-shape-lights-ecoosoft-original-imahz72swagvw2pf.jpeg?q=90'
+    ],
+    category: 'Lighting',
+    flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=RCLHZ72S9ETJ5YZE',
+    featured: true
+}
     
     
 ];
