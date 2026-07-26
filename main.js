@@ -105,6 +105,25 @@ const products = [
     category: 'Lighting',
     flipkartLink: 'https://www.flipkart.com/product/p/itme?pid=RCLHZN9ZR6AHY3RN',
     featured: true
+},
+    {
+    id: '7',
+    name: 'Ecoosoft 600 LEDs 5M Yellow Waterproof Rope Strip Light (Pack of 1)',
+    price: 169,
+    description: 'Brand: Ecoosoft | Model: 5 Meter Waterproof Yellow Rope Light for False Ceiling, Balcony, Diwali & Christmas | Type: LED Rope Strip Light | Color: Yellow | Length: 5 Meter | Number of LEDs: 600 | Lighting Mode: Steady | Bulb Type: LED | Shape: Strip | Control Method: Manual | Waterproof Design | Pack of: 1 | Includes: 1 x 5M SMD Rope Light with Connector | Ideal for False Ceiling, Home Decoration, Balcony, Garden, Festivals, Diwali, Christmas, Parties, and Indoor & Outdoor Lighting | Fragile: No.',
+    image: 'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/c/f/3/600-strip-5-0-1-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkagjpsugdsa.jpeg?q=90',
+    images: [
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/c/f/3/600-strip-5-0-1-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkagjpsugdsa.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/y/r/7/600-strip-5-0-1-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkagevuhnhvf.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/x/c/m/600-strip-5-0-1-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkageafanz2d.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/l/4/q/600-strip-5-0-2-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkag3vak97at.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/i/v/p/600-strip-5-0-1-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkaghzzrnvug.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/b/h/z/600-strip-5-0-1-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkagyyu3zgxy.jpeg?q=90',
+        'https://rukminim2.flixcart.com/image/2048/2048/xif0q/rice-light/t/b/e/600-strip-5-0-2-5-meter-waterproof-yellow-rope-light-for-false-original-imahzkaghxttzchc.jpeg?q=90'
+    ],
+    category: 'Lighting',
+    flipkartLink: 'https://www.flipkart.com/ecoosoft-600-leds-5-m-yellow-steady-strip-rice-lights/p/itme55dec2b83e8d?pid=RCLHZKAGAQHVFETF&marketplace=FLIPKART&lid=LSTRCLHZKAGAQHVFETFR6SUZM&pageUID=1785062225498',
+    featured: true
 }
     
     
